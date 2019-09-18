@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "09E36682431E218FF8E8EB6E99804BD830FCED57",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "13DE610A8A87758DCF5CE0D12B5921B7B38C4672" : 0,
+    "09E36682431E218FF8E8EB6E99804BD830FCED57" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A5D489EF-CA4C-44E0-9C28-3754100B232F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "13DE610A8A87758DCF5CE0D12B5921B7B38C4672" : "",
+    "09E36682431E218FF8E8EB6E99804BD830FCED57" : "Printn_xcode\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Printn",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Printn.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/printn\/printn.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "09E36682431E218FF8E8EB6E99804BD830FCED57"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/printn\/printn.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "13DE610A8A87758DCF5CE0D12B5921B7B38C4672"
+    }
+  ]
+}
